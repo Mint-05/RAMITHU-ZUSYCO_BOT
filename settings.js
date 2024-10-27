@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "254780513271",
   SUDO_NUMBERS : "254780513271,2349150649042,2347071940132,94766632281,94701628336",
   OWNER_NAME: "MR Mint",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  BOT_NAME : "MINT MULTIDEVICE",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -31,16 +31,16 @@ module.exports = {
         GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
-  TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "private",
-  WORK_MODE : "onlyinbox",
+  TIME_ZONE :  "Africa/Kenya",
+  WORK_TYPE : "public",
+  WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙᴇʀᴋɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
-  STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  CAPTION : '*々 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʏʙMINTɪʟʟᴇʀꜱᴛᴇᴀᴍ*',
+  STICKER_PACK : '[ Mint ]',
+  BAD_WORDS : 'fuck,pussy,mumu,werey',
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 500,
   MOROCCO_NUMBERS : {
@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
@@ -78,6 +78,6 @@ module.exports = {
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
     "ne" : "https://i.ibb.co/N6Wb6mZ/ne.webp",
   },
-  LOAD_ANIMATION : false,
+  LOAD_ANIMATION : true,
  
 };
